@@ -1,17 +1,19 @@
 {
-  "version": "2.1.0",
+  "version": "1.0.0",
   "release_date": "2026-09-23",
   "build_number": "20260923.1",
-  "min_supported_version": "2.0.0",
+  "min_supported_version": "1.0.0",
   "force_update": false,
-  "title": "拼多多客服智能自动回复系统 v2.1.0 正式发布",
+  "title": "拼多多客服智能自动回复系统 v1.0.0 初始正式版发布",
   "changelog": [
-    "全新上线国内免翻墙在线高速热更新系统；",
-    "引入双进程安全接管与防变砖自动自愈回滚机制；",
-    "数据库结构无损平滑迁移，升级前自动备份规则快照；",
-    "全面保障商家接单稳定性与拟人化防风控安全。"
+    "拼多多客服智能自动回复系统 v1.0.0 初始第一代正式版本发布；",
+    "专为拼多多商家工作台 PC 客户端定制，非侵入式机器视觉与本地离线 RapidOCR；",
+    "三次贝塞尔曲线拟人化键鼠物理驱动与随机防风控防封号机制；",
+    "多店铺巡检轮换、超时急迫插队调度与独立启闭控制；",
+    "商品卡片智能识别、文字与本地图片混合队列按序发送；",
+    "商业级在线版本控制、国内极速专线热更新与故障自愈防变砖体系。"
   ],
-  "download_url": "https://github.com/liovoz/PddReply-Release/releases/download/v2.1.0/PddReply_Update_v2.1.0.zip",
-  "sha256": "9e61c03677cad8fa093f7973454e871a58a3413a8a5af813a92691e995e724bb",
-  "file_size": 141394180
+  "download_url": "https://github.com/liovoz/PddReply-Release/releases/download/v1.0.0/PddReply_Update_v1.0.0.zip",
+  "sha256": "",
+  "file_size": 0
 }
