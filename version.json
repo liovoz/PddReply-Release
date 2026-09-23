@@ -14,6 +14,6 @@
     "进一步优化多线程调度与内存开销，大幅提升多店铺长时间无人值守稳定性。"
   ],
   "download_url": "https://github.com/liovoz/PddReply-Release/releases/download/v1.1.0/PddReply_Update_v1.1.0.zip",
-  "sha256": "a55814e0de3cda5d12f0c41e058860960d2a84de0bb4d0abe29765fc11f312e0",
-  "file_size": 120260194
+  "sha256": "ad05959c273f026ec23531f9e17b8fdeff5307984fd5eab297c05648af6eaf00",
+  "file_size": 87643447
 }
