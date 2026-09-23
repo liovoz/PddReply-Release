@@ -7,7 +7,7 @@
 - **发布日期**: 2026-09-23
 - **构建编号**: 20260923.2
 - **下载地址**: [PddReply_Update_v1.1.0.zip](https://github.com/liovoz/PddReply-Release/releases/download/v1.1.0/PddReply_Update_v1.1.0.zip)
-- **SHA-256 校验和**: `abaf85fe92d013834779fece6efbdfaf6dc1562d5fe39b9e08f92d5f9e67dd68`
+- **SHA-256 校验和**: `a55814e0de3cda5d12f0c41e058860960d2a84de0bb4d0abe29765fc11f312e0`
 
 ### 🌟 本次更新内容
 - 拼多多客服智能自动回复系统 v1.1.0 正式发布；
